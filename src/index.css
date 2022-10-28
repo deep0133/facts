@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-serif-pro {
+  font-family: "Source Serif Pro", serif;
+}
+
+.font-gentium {
+  font-family: "Gentium Book Basic", serif;
+}
